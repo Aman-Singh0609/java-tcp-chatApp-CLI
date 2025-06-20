@@ -1,8 +1,3 @@
-Here's a **complete and professional `README.md`** file for your **Java TCP Chat Application with CLI Interface**:
-
----
-
-```markdown
 # ⚡ Java TCP Chat CLI
 
 A lightweight command-line chat application built in Java using TCP sockets. This project demonstrates real-time communication between a server and multiple clients using threads.

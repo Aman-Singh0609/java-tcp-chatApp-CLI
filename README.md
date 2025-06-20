@@ -89,12 +89,6 @@ Each client will be prompted to enter a **unique username** before joining the c
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🌟 Future Improvements
 
 * GUI-based client using JavaFX (optional)
@@ -105,9 +99,3 @@ This project is licensed under the MIT License.
 
 ---
 
-```
-
----
-
-Let me know if you'd like a **badge version**, GitHub Pages setup, or a version with screenshots or GIFs!
-```

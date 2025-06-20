@@ -69,7 +69,7 @@ Each client will be prompted to enter a **unique username** before joining the c
 ---
 
 ## 📌 Sample Usage
-![Chat running in VS Code terminal](Screenshots/Screenshot1.png)
+![Chat running in VS Code terminal](Screenshot1.png)
 ---
 
 ## 📄 Log File
@@ -78,10 +78,10 @@ Each client will be prompted to enter a **unique username** before joining the c
 * Example log entry:
 
 ```
-![Chat running in VS Code terminal](Screenshots/Screenshot2.png)
-![Chat running in VS Code terminal](Screenshots/Screenshot3.png)
-![Chat running in VS Code terminal](Screenshots/Screenshot4.png)
-![Chat running in VS Code terminal](Screenshots/Screenshot5.png)
+![Chat running in VS Code terminal](Screenshot2.png)
+![Chat running in VS Code terminal](Screenshot3.png)
+![Chat running in VS Code terminal](Screenshot4.png)
+![Chat running in VS Code terminal](Screenshot5.png)
 ```
 
 ---
